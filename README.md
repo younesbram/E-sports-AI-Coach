@@ -33,6 +33,7 @@ Generation of high quality advice based on visual game data.
 TTS output of AI-generated advice.  
 
 ## Future Enhancements
+this project is not to be taken seriously, and does not endorse cheating.
 **Continuous Video Analysis**: Implement [real-time video processing](https://cookbook.openai.com/examples/gpt_with_vision_for_video_understanding) to provide ongoing advice without the need for screenshot capture.   
 **Voice Cloning Based on Selected Champion**: Integrate ElevenLabs or tortoise-tts for voice cloning to match the in-game champion. Could add celebrities like tyler1, joe rogan, idk.
 **Interactive Voice Commands**: Allow players to ask specific questions using WhisperV3 STT for more personalized advice.   
