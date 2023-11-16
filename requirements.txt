@@ -1,0 +1,8 @@
+pynput
+Pillow
+requests
+python-dotenv
+openai
+pydub
+simpleaudio
+
